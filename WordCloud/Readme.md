@@ -1,7 +1,7 @@
 Hi there,
 This python script will generate an image out of the plain texts within no time.
 
-These .ipynb files need to run in one .ipynb files with different blocks. In the terminal first we need to run the download commands. In last step if the file uploading fails, just parse the text in the string field and comment out the file_uploader command.
+These different .py files can run in one go with the .ipynb file. In the terminal first we need to run the download commands. In last step if the file uploading fails, just parse the text in the string field and comment out the file_uploader command.
 
 
 ![Python_output_1](https://user-images.githubusercontent.com/77427356/166949921-ea83b2ea-da39-4d43-ad7b-ee3a732df86b.jpg)
